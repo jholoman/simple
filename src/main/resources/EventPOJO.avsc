@@ -1,0 +1,151 @@
+{
+  "type" : "record",
+  "name" : "Event",
+  "namespace" : "com.loudacre.kafka",
+  "doc" : "Schema for com.loudacre.kafka.model.Event",
+  "fields" : [ {
+    "name" : "accountID",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString1",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString10",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString11",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString12",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString13",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString14",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString15",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString2",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString3",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString4",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString5",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString6",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString7",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString8",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrString9",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "attrdouble1",
+    "type" : "double"
+  }, {
+    "name" : "attrdouble2",
+    "type" : "double"
+  }, {
+    "name" : "attrdouble3",
+    "type" : "double"
+  }, {
+    "name" : "attrdouble4",
+    "type" : "double"
+  }, {
+    "name" : "attrdouble5",
+    "type" : "double"
+  }, {
+    "name" : "attrint1",
+    "type" : "int"
+  }, {
+    "name" : "attrint10",
+    "type" : "int"
+  }, {
+    "name" : "attrint11",
+    "type" : "int"
+  }, {
+    "name" : "attrint12",
+    "type" : "int"
+  }, {
+    "name" : "attrint13",
+    "type" : "int"
+  }, {
+    "name" : "attrint14",
+    "type" : "int"
+  }, {
+    "name" : "attrint15",
+    "type" : "int"
+  }, {
+    "name" : "attrint2",
+    "type" : "int"
+  }, {
+    "name" : "attrint3",
+    "type" : "int"
+  }, {
+    "name" : "attrint4",
+    "type" : "int"
+  }, {
+    "name" : "attrint5",
+    "type" : "int"
+  }, {
+    "name" : "attrint6",
+    "type" : "int"
+  }, {
+    "name" : "attrint7",
+    "type" : "int"
+  }, {
+    "name" : "attrint8",
+    "type" : "int"
+  }, {
+    "name" : "attrint9",
+    "type" : "int"
+  }, {
+    "name" : "cehUUID",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "channelID",
+    "type" : "int"
+  }, {
+    "name" : "eventAction",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "eventDate",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "eventType",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "eventUUID",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "interactionChannel",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "onlineID",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "partyID",
+    "type" : "int"
+  }, {
+    "name" : "schema",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "sessionID",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "sourceEventID",
+    "type" : "int"
+  } ]
+}
